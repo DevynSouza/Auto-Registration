@@ -4,7 +4,7 @@ return
 Instructions:
 send, ^{f5}
 send, ctrl
-sleep, (l000)
+sleep, (1000)
 send, {enter}
 sleep, (1000)
 mouseclick, left
