@@ -1,4 +1,4 @@
-﻿Settimer, Instructions, 6000 ; 6.000 ms = 1 minute   This equals 10 minutes
+﻿Settimer, Instructions, 600000 ; 60,000 ms = 1 minute   This equals 10 minutes
 return
 
 Instructions:
