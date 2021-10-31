@@ -1,10 +1,6 @@
 # Auto-Registration
 Collection of scripts used to automatically register for classes. 
 Enclosed is 3 programs. 
-	* Automated scheduler
-	* Manual Scheduler incase the automatic breaks
-	* Timer to refresh and make sure you don't timeout from your webpage
-
 
 ## Automated scheduler Instructions
 * Icognito mode in order to stop chrome from trying to save your new pin. (It fucked me up last time)
