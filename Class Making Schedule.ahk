@@ -11,7 +11,7 @@ FormatTime, TimeToMeet,,HHmm
 If TimeToMeet = 700 ;
 
 {
-send, 577760    ;Registration Pin
+send, 473160    ;Registration Pin
 send, {enter} 
 sleep, 2000
 
