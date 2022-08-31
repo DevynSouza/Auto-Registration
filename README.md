@@ -3,7 +3,7 @@ Collection of scripts used to automatically register for classes.
 Enclosed is 2 programs. 
 
 ## Automated scheduler Instructions
-* Icognito mode in order to stop chrome from trying to save your new pin. (It fucked me up last time)
+* Icognito mode in order to stop chrome from trying to save your new pin. 
 * Go to you add drop classes and make sure you select the correct term. 
 * Click your cursor in the pin box and leave it there.
 * Make sure to leave your laptop on all night. You can dim it completely so you don't see the screen
