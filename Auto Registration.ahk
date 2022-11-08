@@ -87,7 +87,7 @@ OK:
 
 
     ;run, C:\Program Files (x86)\Google\Chrome\Application\chrome.exe -incognito
-    run, timer.ahk
+    run, timer.exe
     Return
 
 
