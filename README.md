@@ -8,12 +8,12 @@ Enclosed is 2 programs.
 * Click your cursor in the pin box and leave it there.
 * Make sure to leave your laptop on all night. You can dim it completely so you don't see the screen
 	** or just put it somewhere else so you don't have to see the lights
-* The program will automatically execute at 7AM so you don't have do anything besides make sure it works. If it doesn't work read below
+* The program will automatically execute at 7AM so you don't have do anything besides make sure it works. If it doesn't work read the below section "Manually Calling the CRN Registration"
 
 
-## Manually calling the CRN registration 
-* If the automated program doesn't work press CTRL + 3  thats only two buttons CTRL and the button 8
-* The automated scheduler handles the pin being input so you should be good.
+## Manually Calling the CRN Registration 
+* If the automated program doesn't work press CTRL + 3  thats only two buttons CTRL and the button 3
+* The automated scheduler handles the pin being input so you should be good, usually the issue is to do with page loading times.
 * The manual classmaker is only for after the pin, the CRNs. 
 * This will automatically input all the CRNs but not your PIN. It will enter all the CRNs and then finalize the registering
 
@@ -24,7 +24,7 @@ That is why I have included the manual. But the automated works if everything go
 
 ## Timer	
 
-**IMPORTANT** : Make sure to run the timer program NOT at a whole of 10 such as 7AM or 7:10 or 7:20  
+**IMPORTANT** : Make sure to run the timer program NOT at a whole of 10 such as 7AM or 7:10, 7:20, etc...  
 				This program runs every 10 minutes so it could interfere with the automated program. 
 				Please run this on something like xx:04,xx:05,xx:06,xx:07
 				
