@@ -123,7 +123,7 @@ If TimeToMeet = 700 ;
 {
 send, %pin% 
 send, {enter} 
-sleep, 1000
+sleep, 3000
 
 ;Required Tabs to navigate to the CRN fields
 send, {tab}
